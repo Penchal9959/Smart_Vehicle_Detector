@@ -1,6 +1,6 @@
 # Smart_Vehicle_Detector
 
-Smart_Vehicle_Detector is Used for Detect the Opposite Vehicle Distance and Collision Time to Reduce the Accidents, It will Gives the Alert Through Buzzer and Lights.
+Smart_Vehicle_Detector is Used to Detect the Opposite Vehicle Distance and Collision Time to Reduce the Accidents, It will Give the Alert Through Buzzer and Lights.
 
 
 
